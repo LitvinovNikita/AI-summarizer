@@ -36,7 +36,14 @@ The project is built using a modern tech stack for optimal performance and devel
 * *Redux Toolkit*: The official, opinionated, batteries-included toolset for efficient Redux development [https://redux-toolkit.js.org/]
 * *JSX*: A syntax extension for JavaScript, recommended for use with React to describe what the UI should look like
 * *Tailwind CSS*: A utility-first CSS framework for rapidly building custom designs [https://tailwindcss.com/]
+* *Vite*: A next generation frontend build tool, offering faster and leaner development for modern web projects [https://vitejs.dev/]
 * *RapidAPI*: API provider [https://rapidapi.com/hub]
+
+## Installation
+
+1) Download the project
+2) Open a terminal, navigate to the project folder and run the command `npm i` to install required packages
+3) To launch the website type a command `npm run dev`
 
 ## Author
 Author: [Nikita Litvinov](https://github.com/LitvinovNikita)
