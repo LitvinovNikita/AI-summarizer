@@ -26,7 +26,7 @@ Summarize leverages the power of OpenAI's GPT-4 model to understand and abridge 
 
 
 ## Links
-- Live Site URL: ()
+- Live Site URL: (https://gpt-4-summarize.netlify.app)
 
 
 ## Technologies
